@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f59b31a-dcbd-4d23-a9cb-a1ad12ccb297" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Kruchyxe/TaskMenager" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1im5TxOXbNqF0z1vr6aOU1jPC2O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/TaskMenager" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TaskManagerSimple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.coderslab.TaskManagerSimple" />
+      <module name="TaskMenager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.coderslab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TaskManagerSimple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f59b31a-dcbd-4d23-a9cb-a1ad12ccb297" name="Default Changelist" comment="" />
+      <created>1602499938865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602499938865</updated>
+      <workItem from="1602499940733" duration="1950000" />
+      <workItem from="1602503893712" duration="1981000" />
+      <workItem from="1602507799906" duration="23000" />
+      <workItem from="1602529782506" duration="45000" />
+      <workItem from="1602833736216" duration="35000" />
+      <workItem from="1602833802460" duration="347000" />
+      <workItem from="1602834188986" duration="19000" />
+      <workItem from="1602834691594" duration="5991000" />
+    </task>
+    <task id="LOCAL-00001" summary="adding classes">
+      <created>1602503934519</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602503934519</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding classes">
+      <created>1602504024992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602504024992</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Creating class&#10;and main method">
+      <created>1602838932152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602838932152</updated>
+    </task>
+    <task id="LOCAL-00004" summary="next step: load data from file">
+      <created>1602839908720</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602839908720</updated>
+    </task>
+    <task id="LOCAL-00005" summary="next step: load data from file">
+      <created>1602840038178</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602840038178</updated>
+    </task>
+    <task id="LOCAL-00006" summary="next step: load data from file">
+      <created>1602841114735</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602841114735</updated>
+    </task>
+    <task id="LOCAL-00007" summary="next step: load data from file">
+      <created>1602842205717</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602842205717</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding classes" />
+    <MESSAGE value="Creating class&#10;and main method" />
+    <MESSAGE value="next step: load data from file" />
+    <option name="LAST_COMMIT_MESSAGE" value="next step: load data from file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="443" y="93" width="1024" height="852" key="#Project_Structure" timestamp="1602835786666">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="443" y="93" width="1024" height="852" key="#Project_Structure/0.0.1920.1032@0.0.1920.1032" timestamp="1602835786666" />
+    <state x="418" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602504967081">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="418" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1602504967081" />
+    <state x="481" y="49" width="948" height="940" key="CommitChangelistDialog2" timestamp="1602842205636">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="481" y="49" width="948" height="940" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1602842205636" />
+    <state x="182" y="91" width="1536" height="862" key="DiffContextDialog" timestamp="1602840317110">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="182" y="91" width="1536" height="862" key="DiffContextDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1602840317110" />
+    <state x="568" y="262" width="764" height="521" key="FileChooserDialogImpl" timestamp="1602842121637">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="568" y="262" width="764" height="521" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1602842121637" />
+    <state x="796" y="416" width="327" height="207" key="Github.ShareDialog" timestamp="1602503499519">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="796" y="416" width="327" height="207" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1602503499519" />
+    <state width="1874" height="396" key="GridCell.Tab.0.bottom" timestamp="1602839842328">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="396" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1602839842328" />
+    <state width="1874" height="396" key="GridCell.Tab.0.center" timestamp="1602839842328">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="396" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1602839842328" />
+    <state width="1874" height="396" key="GridCell.Tab.0.left" timestamp="1602839842328">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="396" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1602839842328" />
+    <state width="1874" height="396" key="GridCell.Tab.0.right" timestamp="1602839842328">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1874" height="396" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1602839842328" />
+    <state x="443" y="93" width="1024" height="852" key="SettingsEditor" timestamp="1602840367239">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="443" y="93" width="1024" height="852" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1602840367239" />
+    <state x="555" y="252" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602842216816">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="555" y="252" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1602842216816" />
+    <state x="733" y="430" width="453" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602842179283">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="733" y="430" width="453" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1032@0.0.1920.1032" timestamp="1602842179283" />
+    <state x="793" y="310" width="324" height="419" key="svn.repositoryBrowser" timestamp="1602840857931">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="793" y="310" width="324" height="419" key="svn.repositoryBrowser/0.0.1920.1032@0.0.1920.1032" timestamp="1602840857931" />
+    <state x="338" y="261" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1602840848096">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="338" y="261" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1602840848096" />
+  </component>
+</project>
