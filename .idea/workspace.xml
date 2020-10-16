@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f59b31a-dcbd-4d23-a9cb-a1ad12ccb297" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/TaskManagerSimple.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TaskManagerSimple.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TaskManagerSimple.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pl/coderslab/TaskManagerSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/coderslab/TaskManagerSimple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +76,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="commons-lang3-3.11.jar" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/../Pobrane/commons-lang3-3.11.jar!/" />
       <method v="2" />
@@ -103,7 +110,9 @@
       <workItem from="1602834691594" duration="8098000" />
       <workItem from="1602844628386" duration="990000" />
       <workItem from="1602845642393" duration="1687000" />
-      <workItem from="1602847480271" duration="391000" />
+      <workItem from="1602847480271" duration="662000" />
+      <workItem from="1602848522056" duration="30000" />
+      <workItem from="1602848622980" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="adding classes">
       <created>1602503934519</created>
@@ -168,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602844057052</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ending step: rest methods">
+      <created>1602847959076</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602847959076</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +195,8 @@
     <MESSAGE value="Creating class&#10;and main method" />
     <MESSAGE value="next step: load data from file" />
     <MESSAGE value="next step: switch and create method printTab" />
-    <option name="LAST_COMMIT_MESSAGE" value="next step: switch and create method printTab" />
+    <MESSAGE value="ending step: rest methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="ending step: rest methods" />
   </component>
   <component name="WindowStateProjectService">
     <state x="443" y="93" width="1024" height="852" key="#Project_Structure" timestamp="1602835786666">
@@ -198,10 +215,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="788" y="274" width="324" height="497" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1602847075700" />
-    <state x="481" y="49" width="948" height="940" key="CommitChangelistDialog2" timestamp="1602844056967">
+    <state x="481" y="49" width="948" height="940" key="CommitChangelistDialog2" timestamp="1602847958839">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="481" y="49" width="948" height="940" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1602844056967" />
+    <state x="481" y="49" width="948" height="940" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1602847958839" />
     <state x="182" y="91" width="1536" height="862" key="DiffContextDialog" timestamp="1602840317110">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -214,34 +231,38 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="796" y="416" width="327" height="207" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1602842566938" />
-    <state width="937" height="289" key="GridCell.Tab.0.bottom" timestamp="1602847605255">
+    <state width="1874" height="289" key="GridCell.Tab.0.bottom" timestamp="1602848142080">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="937" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1602847605255" />
-    <state width="937" height="289" key="GridCell.Tab.0.center" timestamp="1602847605254">
+    <state width="1874" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1602848142080" />
+    <state width="1874" height="289" key="GridCell.Tab.0.center" timestamp="1602848142080">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="937" height="289" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1602847605254" />
-    <state width="937" height="289" key="GridCell.Tab.0.left" timestamp="1602847605254">
+    <state width="1874" height="289" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1602848142080" />
+    <state width="1874" height="289" key="GridCell.Tab.0.left" timestamp="1602848142080">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="937" height="289" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1602847605254" />
-    <state width="937" height="289" key="GridCell.Tab.0.right" timestamp="1602847605254">
+    <state width="1874" height="289" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1602848142080" />
+    <state width="1874" height="289" key="GridCell.Tab.0.right" timestamp="1602848142080">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="937" height="289" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1602847605254" />
-    <state x="443" y="93" width="1024" height="852" key="SettingsEditor" timestamp="1602847288942">
+    <state width="1874" height="289" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1602848142080" />
+    <state x="443" y="93" width="1024" height="852" key="SettingsEditor" timestamp="1602848864832">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="443" y="93" width="1024" height="852" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1602847288942" />
-    <state x="555" y="252" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602844074834">
+    <state x="443" y="93" width="1024" height="852" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1602848864832" />
+    <state x="555" y="252" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1602847978850">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="555" y="252" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1602844074834" />
+    <state x="555" y="252" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1602847978850" />
     <state x="733" y="430" width="453" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602844011873">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="733" y="430" width="453" height="179" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1032@0.0.1920.1032" timestamp="1602844011873" />
+    <state x="686" y="12" width="944" height="825" key="new project wizard" timestamp="1602848723140">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="686" y="12" width="944" height="825" key="new project wizard/0.0.1920.1032@0.0.1920.1032" timestamp="1602848723140" />
     <state x="793" y="310" width="324" height="419" key="svn.repositoryBrowser" timestamp="1602840857931">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
