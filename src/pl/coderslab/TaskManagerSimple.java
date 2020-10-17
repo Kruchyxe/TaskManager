@@ -15,7 +15,7 @@ import java.util.Scanner;
 import static java.lang.System.arraycopy;
 
 public class TaskManagerSimple {
-    static final String FILE_NAME = "tasks.csv";
+    static final String FILE_NAME = "./tasks.csv";
     static final String[] OPTIONS = {"add", "remove", "list", "exit"};
     static String[][] tasks;
 
@@ -38,6 +38,7 @@ public class TaskManagerSimple {
                     System.out.println("Value was successfully deleted.");
                     break;
                 case "add":
+                    addTask();
                     break;
                 case "list":
                     printTab(tasks);
